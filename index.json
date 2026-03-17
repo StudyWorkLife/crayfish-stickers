@@ -1,1 +1,166 @@
-{"version":"1.1.0","stickers":[{"id":"ok_001","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/ok/ok1.png","tags":["好的","收到","没问题","中","可以","同意","搞定"]},{"id":"happy_001","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/happy/laugh1.png","tags":["开心","笑","哈哈","快乐","高兴","太棒了"]},{"id":"speechless_001","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/speechless/eyeroll1.png","tags":["无语","翻白眼","无奈","服了","什么鬼"]},{"id":"sad_001","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/sad/cry1.png","tags":["难过","哭","伤心","难受","委屈"]},{"id":"tucao_001","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/tucao/complaint1.png","tags":["吐槽","什么鬼","离谱","绝了","牛逼"]},{"id":"tucao_002","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/tucao/you_pian_wo.png","tags":["又骗我","良心不会痛","上当","吐槽"]},{"id":"tucao_003","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/tucao/keng_die.png","tags":["坑爹","坑","离谱","绝了"]},{"id":"ok_002","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/ok/lao_ge_wen.png","tags":"稳,老哥稳,靠谱,没问题,厉害"},{"id":"speechless_002","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/speechless/xia_si_bao_bao.png","tags":["吓死宝宝了","害怕","惊讶","吓人"]},{"id":"happy_002","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/happy/tu_ran_xing_fen.png","tags":["突然兴奋","开心","兴奋","高兴","激动"]},{"id":"tucao_004","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/tucao/liang_xin_bei_gou_chi_le.png","tags":["良心被狗吃了","吐槽","离谱","过分"]},{"id":"happy_003","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/happy/da_shen_hao_li_hai.png","tags":["大神好厉害","厉害","牛逼","666","佩服"]},{"id":"tucao_005","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/tucao/qing_kai_shi_ni_de_biao_yan.png","tags":["请开始你的表演","嘲讽","看戏","阴阳怪气"]},{"id":"happy_004","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/happy/kong_ji_bu_zhu_zi_ji.png","tags":["控制不住自己","激动","兴奋","开心"]},{"id":"speechless_003","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/speechless/tian_na_hao_ke_pa.png","tags":["好可怕","天呐","害怕","吓人"]},{"id":"speechless_004","url":"https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/speechless/zhen_de_ma.png","tags":["真的？","疑惑","惊讶","问号"]}]}
+{
+  "version": "2.0.0",
+  "description": "Crayfish表情包索引 - 增强版，包含河南大叔专属表情",
+  "stickers": [
+    {
+      "id": "henan_001",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/henan/henan_uncle_01.png",
+      "tags": ["河南", "大叔", "俺", "中", "得劲", "靠谱", "干活"],
+      "category": "henan"
+    },
+    {
+      "id": "henan_002",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/henan/henan_uncle_02.png",
+      "tags": ["河南", "大叔", "恁", "啥", "咋", "疑问", "懵逼"],
+      "category": "henan"
+    },
+    {
+      "id": "henan_003",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/henan/henan_uncle_03.png",
+      "tags": ["河南", "大叔", "乏", "累", "休息", "颓废", "躺平"],
+      "category": "henan"
+    },
+    {
+      "id": "henan_004",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/henan/henan_uncle_04.png",
+      "tags": ["河南", "大叔", "牛逼", "厉害", "佩服", "666"],
+      "category": "henan"
+    },
+    {
+      "id": "henan_005",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/henan/henan_uncle_05.png",
+      "tags": ["河南", "大叔", "不中", "不行", "拒绝", "摇头"],
+      "category": "henan"
+    },
+    {
+      "id": "ok_001",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/ok/ok1.png",
+      "tags": ["好的", "收到", "没问题", "中", "可以", "同意", "搞定"],
+      "category": "ok"
+    },
+    {
+      "id": "ok_002",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/ok/lao_ge_wen.png",
+      "tags": ["稳", "老哥稳", "靠谱", "没问题", "厉害"],
+      "category": "ok"
+    },
+    {
+      "id": "happy_001",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/happy/laugh1.png",
+      "tags": ["开心", "笑", "哈哈", "快乐", "高兴", "太棒了"],
+      "category": "happy"
+    },
+    {
+      "id": "happy_002",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/happy/tu_ran_xing_fen.png",
+      "tags": ["突然兴奋", "开心", "兴奋", "高兴", "激动"],
+      "category": "happy"
+    },
+    {
+      "id": "happy_003",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/happy/da_shen_hao_li_hai.png",
+      "tags": ["大神好厉害", "厉害", "牛逼", "666", "佩服"],
+      "category": "happy"
+    },
+    {
+      "id": "happy_004",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/happy/kong_ji_bu_zhu_zi_ji.png",
+      "tags": ["控制不住自己", "激动", "兴奋", "开心"],
+      "category": "happy"
+    },
+    {
+      "id": "sad_001",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/sad/cry1.png",
+      "tags": ["难过", "哭", "伤心", "难受", "委屈"],
+      "category": "sad"
+    },
+    {
+      "id": "speechless_001",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/speechless/eyeroll1.png",
+      "tags": ["无语", "翻白眼", "无奈", "服了", "什么鬼"],
+      "category": "speechless"
+    },
+    {
+      "id": "speechless_002",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/speechless/xia_si_bao_bao.png",
+      "tags": ["吓死宝宝了", "害怕", "惊讶", "吓人"],
+      "category": "speechless"
+    },
+    {
+      "id": "speechless_003",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/speechless/tian_na_hao_ke_pa.png",
+      "tags": ["好可怕", "天呐", "害怕", "吓人"],
+      "category": "speechless"
+    },
+    {
+      "id": "speechless_004",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/speechless/zhen_de_ma.png",
+      "tags": ["真的？", "疑惑", "惊讶", "问号"],
+      "category": "speechless"
+    },
+    {
+      "id": "tucao_001",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/tucao/complaint1.png",
+      "tags": ["吐槽", "什么鬼", "离谱", "绝了", "牛逼"],
+      "category": "tucao"
+    },
+    {
+      "id": "tucao_002",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/tucao/you_pian_wo.png",
+      "tags": ["又骗我", "良心不会痛", "上当", "吐槽"],
+      "category": "tucao"
+    },
+    {
+      "id": "tucao_003",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/tucao/keng_die.png",
+      "tags": ["坑爹", "坑", "离谱", "绝了"],
+      "category": "tucao"
+    },
+    {
+      "id": "tucao_004",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/tucao/liang_xin_bei_gou_chi_le.png",
+      "tags": ["良心被狗吃了", "吐槽", "离谱", "过分"],
+      "category": "tucao"
+    },
+    {
+      "id": "tucao_005",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/tucao/qing_kai_shi_ni_de_biao_yan.png",
+      "tags": ["请开始你的表演", "嘲讽", "看戏", "阴阳怪气"],
+      "category": "tucao"
+    },
+    {
+      "id": "working_001",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/working/coding1.png",
+      "tags": ["编程", "写代码", "工作", "干活", "忙碌"],
+      "category": "working"
+    },
+    {
+      "id": "working_002",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/working/debugging1.png",
+      "tags": ["调试", "bug", "问题", "解决", "头疼"],
+      "category": "working"
+    },
+    {
+      "id": "thinking_001",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/thinking/thinking1.png",
+      "tags": ["思考", "想", "考虑", "沉思", "脑力"],
+      "category": "thinking"
+    },
+    {
+      "id": "thinking_002",
+      "url": "https://raw.githubusercontent.com/StudyWorkLife/crayfish-stickers/main/thinking/idea1.png",
+      "tags": ["灵感", "想法", "创意", "灯泡", "有了"],
+      "category": "thinking"
+    }
+  ],
+  "categories": {
+    "henan": ["河南", "大叔", "俺", "恁", "中", "得劲", "乏", "牛逼", "不中"],
+    "ok": ["好的", "收到", "没问题", "可以", "同意", "搞定", "稳"],
+    "happy": ["开心", "笑", "快乐", "高兴", "兴奋", "激动", "太棒了"],
+    "sad": ["难过", "哭", "伤心", "难受", "委屈", "失望"],
+    "speechless": ["无语", "无奈", "服了", "惊讶", "害怕", "疑惑"],
+    "tucao": ["吐槽", "离谱", "绝了", "坑爹", "嘲讽", "阴阳怪气"],
+    "working": ["工作", "干活", "编程", "调试", "忙碌", "解决"],
+    "thinking": ["思考", "想", "考虑", "灵感", "创意", "脑力"]
+  }
+}
